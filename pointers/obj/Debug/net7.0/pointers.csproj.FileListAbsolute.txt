@@ -1,0 +1,15 @@
+/Users/mariejadekhazzaka/Desktop/USJ/Info 2/pointers/pointers/bin/Debug/net7.0/pointers
+/Users/mariejadekhazzaka/Desktop/USJ/Info 2/pointers/pointers/bin/Debug/net7.0/pointers.deps.json
+/Users/mariejadekhazzaka/Desktop/USJ/Info 2/pointers/pointers/bin/Debug/net7.0/pointers.runtimeconfig.json
+/Users/mariejadekhazzaka/Desktop/USJ/Info 2/pointers/pointers/bin/Debug/net7.0/pointers.dll
+/Users/mariejadekhazzaka/Desktop/USJ/Info 2/pointers/pointers/bin/Debug/net7.0/pointers.pdb
+/Users/mariejadekhazzaka/Desktop/USJ/Info 2/pointers/pointers/obj/Debug/net7.0/pointers.csproj.AssemblyReference.cache
+/Users/mariejadekhazzaka/Desktop/USJ/Info 2/pointers/pointers/obj/Debug/net7.0/pointers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariejadekhazzaka/Desktop/USJ/Info 2/pointers/pointers/obj/Debug/net7.0/pointers.AssemblyInfoInputs.cache
+/Users/mariejadekhazzaka/Desktop/USJ/Info 2/pointers/pointers/obj/Debug/net7.0/pointers.AssemblyInfo.cs
+/Users/mariejadekhazzaka/Desktop/USJ/Info 2/pointers/pointers/obj/Debug/net7.0/pointers.csproj.CoreCompileInputs.cache
+/Users/mariejadekhazzaka/Desktop/USJ/Info 2/pointers/pointers/obj/Debug/net7.0/pointers.dll
+/Users/mariejadekhazzaka/Desktop/USJ/Info 2/pointers/pointers/obj/Debug/net7.0/refint/pointers.dll
+/Users/mariejadekhazzaka/Desktop/USJ/Info 2/pointers/pointers/obj/Debug/net7.0/pointers.pdb
+/Users/mariejadekhazzaka/Desktop/USJ/Info 2/pointers/pointers/obj/Debug/net7.0/pointers.genruntimeconfig.cache
+/Users/mariejadekhazzaka/Desktop/USJ/Info 2/pointers/pointers/obj/Debug/net7.0/ref/pointers.dll
