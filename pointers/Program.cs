@@ -77,7 +77,7 @@ class linkedlist
         }
 
     }
-    public void addMiddle(int x, int position)
+    public void addMiddle(int x, int position)  // ana 3mlta hay
     {
         if (position < 0)
         {
