@@ -76,6 +76,7 @@ class linkedlist
             p.suiv = t;
         }
         //zeded comnt tenye
+        //zeded comnt telte
     }
     public void addMiddle(int x, int position)  // ana 3mlta hay w hay w hay
     {
